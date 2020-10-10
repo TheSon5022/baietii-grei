@@ -1,0 +1,21 @@
+
+body {
+  background-color: #FFE4C4;
+
+}
+
+h1 {
+  color: #9370DB;
+}
+
+hr {
+border-color: grey;
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width: 5%;
+}
+
+.pegdu {
+  height: 350px;
+}
